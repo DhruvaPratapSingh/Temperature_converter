@@ -16,12 +16,14 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(yellow,red,blue);
+/*     background: linear-gradient(yellow,red,blue); */
+ background: url("https://static.vecteezy.com/system/resources/previews/004/243/021/original/abstract-template-background-white-and-bright-blue-squares-overlapping-with-halftone-and-texture-free-vector.jpg");
 }
 
 .container{
     max-height: 450px;
-    background: rgb(7, 50, 1);
+/*     background: rgb(7, 50, 1); */
+  background: rgb(1, 146, 243);
     border-radius: 8px;
     box-shadow: 0 0 15px 3px black;
     font-family: sans-serif;
